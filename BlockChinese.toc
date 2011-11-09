@@ -1,7 +1,7 @@
 ## Interface: 40200
-## Version: v0.1
+## Version: v0.2
 ## Title: BlockChinese
-## Notes: Blocks Chinese and Korean Chat
+## Notes: Blocks Chinese, Japanese and Korean Chat
 ## Author: Ketho @ EU-Boulderfist
 
 BlockChinese.lua
