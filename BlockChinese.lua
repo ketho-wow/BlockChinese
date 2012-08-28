@@ -2,7 +2,7 @@
 --- Author: Ketho (EU-Boulderfist)		---
 --- License: Public Domain				---
 --- Created: 2011.11.09					---
---- Version: v0.3 [2011.11.30]			---
+--- Version: 0.4 [2012.08.28]			---
 -------------------------------------------
 --- Curse			http://www.curse.com/addons/wow/blockchinese
 --- WoWInterface	http://www.wowinterface.com/downloads/info20488-BlockChinese.html
