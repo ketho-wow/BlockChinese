@@ -2,7 +2,7 @@
 --- Author: Ketho (EU-Boulderfist)		---
 --- License: Public Domain				---
 --- Created: 2011.11.09					---
---- Version: 0.5 [2013.05.03]			---
+--- Version: 0.6 [2013.05.23]			---
 -------------------------------------------
 --- Curse			http://www.curse.com/addons/wow/blockchinese
 --- WoWInterface	http://www.wowinterface.com/downloads/info20488-BlockChinese.html
@@ -15,11 +15,11 @@ local events = {
 	"CHAT_MSG_SAY",
 	"CHAT_MSG_YELL",
 	"CHAT_MSG_CHANNEL",
+	"CHAT_MSG_WHISPER",
 	--"CHAT_MSG_EMOTE",
-	--"CHAT_MSG_WHISPER",
 	--"CHAT_MSG_PARTY",
 	--"CHAT_MSG_RAID",
-	--"CHAT_MSG_BATTLEGROUND",
+	--"CHAT_MSG_INSTANCE_CHAT",
 }
 
 local function filter(self, event, msg, ...)
