@@ -1,5 +1,5 @@
-## Interface: 50300
-## Version: 0.6
+## Interface: 50400
+## Version: 0.7
 ## Title: BlockChinese
 ## Notes: Blocks Chinese, Japanese and Korean Chat
 ## Author: Ketho @ EU-Boulderfist
