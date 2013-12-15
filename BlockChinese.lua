@@ -2,7 +2,7 @@
 --- Author: Ketho (EU-Boulderfist)		---
 --- License: Public Domain				---
 --- Created: 2011.11.09					---
---- Version: 0.7 [2013.11.13]			---
+--- Version: 0.8 [2013.12.15]			---
 -------------------------------------------
 --- Curse			http://www.curse.com/addons/wow/blockchinese
 --- WoWInterface	http://www.wowinterface.com/downloads/info20488-BlockChinese.html
@@ -23,7 +23,7 @@ local events = {
 }
 
 local function filter(self, event, msg, ...)
-	if strfind(msg, "[\227-\237]") then
+	if strfind(msg, "[\228-\233]") then
 		return true
 	end
 end
