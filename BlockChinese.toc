@@ -1,5 +1,5 @@
-## Interface: 60100
-## Version: 1.0
+## Interface: 60200
+## Version: 1.2
 ## Title: BlockChinese
 ## Notes: Blocks Chinese Chat
 ## Author: Ketho @ EU-Boulderfist

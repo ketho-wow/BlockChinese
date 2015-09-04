@@ -2,12 +2,12 @@
 --- Author: Ketho (EU-Boulderfist)		---
 --- License: Public Domain				---
 --- Created: 2011.11.09					---
---- Version: 1.1 [2015.03.17]			---
+--- Version: 1.2 [2015.09.04]			---
 -------------------------------------------
 --- Curse			http://www.curse.com/addons/wow/blockchinese
 --- WoWInterface	http://www.wowinterface.com/downloads/info20488-BlockChinese.html
 
--- 227       : Japanese katakana / hiragana
+-- 227       : Japanese katakana and hiragana
 -- 228 - 233 : Chinese characters and Japanese kanji
 -- 234 - 237 : Korean characters
 
