@@ -1,11 +1,5 @@
--------------------------------------------
---- Author: Ketho (EU-Boulderfist)		---
---- License: Public Domain				---
---- Created: 2011.11.09					---
---- Version: 1.2 [2015.09.04]			---
--------------------------------------------
---- Curse			http://www.curse.com/addons/wow/blockchinese
---- WoWInterface	http://www.wowinterface.com/downloads/info20488-BlockChinese.html
+-- Author: Ketho (EU-Boulderfist)
+-- License: Public Domain
 
 -- 227       : Japanese katakana and hiragana
 -- 228 - 233 : Chinese characters and Japanese kanji
@@ -26,7 +20,7 @@ local events = {
 	--"CHAT_MSG_INSTANCE_CHAT_LEADER",
 }
 
-local function filter(self, event, msg, ...)
+local function filter(self, event, msg)
 	if strfind(msg, "[\227-\237]") then
 		return true
 	end
