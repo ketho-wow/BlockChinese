@@ -1,5 +1,5 @@
-## Interface: 70000
-## Version: 1.3
+## Interface: 70100
+## Version: @project-version@
 ## Title: BlockChinese
 ## Notes: Blocks Chinese Chat
 ## Author: Ketho @ EU-Boulderfist
