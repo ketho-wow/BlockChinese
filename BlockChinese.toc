@@ -1,7 +1,9 @@
-## Interface: 80100
+## Interface: 80300
 ## Version: @project-version@
 ## Title: BlockChinese
 ## Notes: Blocks Chinese Chat
 ## Author: Ketho @ EU-Boulderfist
+## X-Curse-Project-ID: 33655
+## X-WoWI-ID: 20488
 
 BlockChinese.lua
