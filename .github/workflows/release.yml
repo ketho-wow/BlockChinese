@@ -18,6 +18,6 @@ jobs:
 
       - uses: BigWigsMods/packager@master
         with:
-          args: -g 1.13.5
+          args: -g 1.13.6
 
       - uses: BigWigsMods/packager@master
