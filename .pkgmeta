@@ -1,5 +1,5 @@
 package-as: BlockChinese
 
 externals:
-  Libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
+  Libs/LibStub: https://repos.curseforge.com/wow/ace3/trunk/LibStub
   Libs/LibChatAnims: https://repos.curseforge.com/wow/libchatanims/trunk/LibChatAnims

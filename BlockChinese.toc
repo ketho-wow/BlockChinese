@@ -1,10 +1,9 @@
-## Interface: 100200
-## Interface-Wrath: 30403
-## Interface-Classic: 11500
+## Interface: 110002, 40400, 11503
 ## Version: @project-version@
 ## Title: BlockChinese
 ## Notes: Blocks Chinese Chat
 ## Author: Ketho @ EU-Boulderfist
+## IconTexture: Interface\Icons\inv_pet_redpanda
 ## X-Curse-Project-ID: 33655
 ## X-WoWI-ID: 20488
 ## X-Wago-ID: e56nrd69

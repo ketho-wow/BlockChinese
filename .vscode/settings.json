@@ -1,7 +1,0 @@
-{
-    "Lua.diagnostics.globals": [
-        "ChatFrame_AddMessageEventFilter",
-        "FCFDock_GetSelectedWindow",
-        "GENERAL_CHAT_DOCK"
-    ]
-}
